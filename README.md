@@ -403,6 +403,6 @@ This project is proprietary and confidential. All rights reserved.
 
 ---
 
-**Built with ❤️ for The Dubai Mall**
+**Built with ❤️ for The LIAT.AI Assignment - Dubai Mall**
 
 *Last updated: April 2026*
