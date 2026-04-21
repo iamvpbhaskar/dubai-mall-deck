@@ -2,7 +2,7 @@
 
 A world-class, browser-based interactive sales presentation for The Dubai Mall. Built as a modern alternative to fragmented pitch processes, this deck tells the property's story through cinematic video, compelling data, and seamless interactivity—designed for both live screen-sharing and standalone exploration.
 
-**Live Demo:** [Coming Soon - Deploy to Vercel]
+**Live Demo:** [https://dubai-mall-deck-9ionijv98-iamved99-1222s-projects.vercel.app/]
 
 ---
 
@@ -398,9 +398,6 @@ This project is proprietary and confidential. All rights reserved.
 - GSAP - Advanced animations
 
 ---
-
-
-
 ---
 
 **Built with ❤️ for The LIAT.AI Assignment - Dubai Mall**
