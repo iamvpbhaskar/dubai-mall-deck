@@ -320,95 +320,6 @@ npm run dev
 # Check browser console for submission status
 ```
 
----
-
-## 🔧 Customization
-
-### Changing Content
-Edit section files in `/sections` to update:
-- Headlines and copy
-- Statistics and metrics
-- Images and video URLs
-- Form fields and CTAs
-
-### Changing Colors
-Update color variables in `app/globals.css`:
-```css
-:root {
-  --gold: #c9a84c;
-  --gold-light: #e8c97a;
-  --dark: #080808;
-}
-```
-
-### Changing Animations
-Adjust timing in component files:
-- `HeroSection.tsx` - Hero animation phases
-- `FadeIn.tsx` - Scroll-triggered fade timing
-- Individual sections - Stagger delays
-
----
-
-## 📈 Performance
-
-### Optimization Strategies
-- **Lazy loading** - Images and videos load on demand
-- **Code splitting** - Next.js automatic route splitting
-- **Image optimization** - External CDN (Unsplash, Pexels)
-- **CSS optimization** - Tailwind purges unused styles
-- **Font optimization** - Geist font optimized by Vercel
-
-### Lighthouse Targets
-- Performance: 90+
-- Accessibility: 90+
-- Best Practices: 90+
-- SEO: 90+
-
-*Note: Performance validation pending deployment*
-
----
-
-## 🚢 Deployment
-
-### Deploy to Vercel (Recommended)
-
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel
-
-# Follow prompts to connect GitHub repo
-```
-
-Or connect directly via [Vercel Dashboard](https://vercel.com/new)
-
-### Deploy to Netlify
-
-```bash
-# Install Netlify CLI
-npm i -g netlify-cli
-
-# Build
-npm run build
-
-# Deploy
-netlify deploy --prod --dir=.next
-```
-
-### Deploy to GitHub Pages
-
-```bash
-# Build
-npm run build
-
-# Deploy (requires gh-pages package)
-npm run deploy
-```
-
----
-
 ## 📝 Design Decisions
 
 ### Why Next.js?
@@ -443,38 +354,19 @@ npm run deploy
 - Modular architecture supports future expansion
 - Reduces cognitive load
 
----
-
-## 🤖 AI Integration
-
-### AI-Generated Assets
-*Currently using real photography from Unsplash and Pexels. Future iterations can incorporate AI-generated renderings for:*
-- Architectural visualizations
-- Lifestyle imagery
-- Event renderings
-- Retail space concepts
-
-### Recommended AI Tools
-- **Midjourney** - High-quality lifestyle and architectural renders
-- **DALL-E 3** - Specific product and concept imagery
-- **Stable Diffusion** - Custom training for brand consistency
-
----
 
 ## 🔐 Security & Privacy
 
 - No backend data collection (forms are client-side only)
 - No cookies or tracking (privacy-first)
 - No external analytics (optional to add)
-- HTTPS ready for deployment
 
 ---
 
 ## 📞 Contact & Support
 
 For questions about this deck or to discuss customization:
-- Email: [your-email@example.com]
-- GitHub Issues: [Link to repo issues]
+- Email: [iamved99@gmail.com]
 
 ---
 
@@ -507,18 +399,10 @@ This project is proprietary and confidential. All rights reserved.
 
 ---
 
-## 🎯 Next Steps
 
-- [ ] Deploy to Vercel
-- [ ] Run Lighthouse audit
-- [ ] Test on mobile (320px+)
-- [ ] Connect forms to backend
-- [ ] Add analytics tracking
-- [ ] Document AI assets used
-- [ ] Create optional design write-up
 
 ---
 
-**Built with ❤️ for The Dubai Mall**
+**Built with ❤️ for The LIAT.AI Assignment - Dubai Mall**
 
 *Last updated: April 2026*
